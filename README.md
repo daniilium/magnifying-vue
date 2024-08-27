@@ -1,5 +1,7 @@
 # Magnifying-vue
 
+Example: https://daniilium.github.io/magnifying-vue/
+
 ## Overview
 This Vue.js component adds a magnifying glass effect to images, making it great for websites where users need to zoom in on pictures, like online stores or photo galleries. The component is easy to customize, letting you adjust the zoom level, size, shape, and more to suit your needs.
 
